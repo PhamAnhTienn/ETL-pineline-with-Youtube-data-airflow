@@ -1,0 +1,6 @@
+numpy
+pandas
+google-api-python-client
+python-dotenv
+psycopg2
+apache-airflow
