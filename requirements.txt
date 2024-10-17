@@ -1,6 +1,1 @@
-numpy
-pandas
-google-api-python-client
-python-dotenv
-psycopg2
-apache-airflow
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
